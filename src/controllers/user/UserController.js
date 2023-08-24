@@ -3,7 +3,7 @@ export default class UserController {
     try {
       const users = [
         {
-          nome: 'Jane Doe',
+          nome: 'Matheus Doe',
           'favorite-game': 'Stardew Valley',
           subscriber: false,
         },
@@ -13,7 +13,22 @@ export default class UserController {
           subscriber: false,
         },
         {
-          nome: 'fabricio hein',
+          nome: 'Gabriel hein',
+          'favorite-game': 'Stardew Valley',
+          subscriber: false,
+        },
+        {
+          nome: 'joao',
+          'favorite-game': 'Stardew Valley',
+          subscriber: false,
+        },
+        {
+          nome: 'karla',
+          'game-favorito': 'Stardew Valley',
+          subscriber: false,
+        },
+        {
+          nome: 'Bruno',
           'favorite-game': 'Stardew Valley',
           subscriber: false,
         },
